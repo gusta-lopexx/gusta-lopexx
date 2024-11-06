@@ -72,4 +72,6 @@
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Kakabell&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakabell&theme=radical)
+##
+<img alt="stats-github" src="https://github-readme-streak-stats.herokuapp.com/?user=Kakabell&theme=radical&hide_border=false" width="400px" />
 
