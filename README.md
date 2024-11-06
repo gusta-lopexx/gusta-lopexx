@@ -1,5 +1,4 @@
-## Olá! Eu sou o Gustavo Lopes 👋
-
+## Olá!
 
 
 #### Redes Sociais:
@@ -9,22 +8,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/47991912757)
 
 #
-
-<style>
-    table {
-        width: 100%;
-        border-collapse: collapse;
-    }
-    th, td {
-        border: 1px solid #ddd;
-        padding: 8px;
-        text-align: center;
-        width: 30%;
-    }
-    th:first-child, td:first-child {
-        width: 30%;
-    }
-</style>
 
 <table>
     <tr>
