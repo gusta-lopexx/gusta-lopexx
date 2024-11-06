@@ -1,7 +1,3 @@
-## Olá! 👋
-
-
-
 #### Redes Sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-aparecido-de-souza-lopes-919525104/)
@@ -71,7 +67,9 @@
 <br/>
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Kakabell&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakabell&theme=radical)
-##
 <img alt="stats-github" src="https://github-readme-streak-stats.herokuapp.com/?user=Kakabell&theme=radical&hide_border=false" width="400px" />
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakabell&theme=radical)
+
+
 
