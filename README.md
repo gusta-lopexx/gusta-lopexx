@@ -1,9 +1,5 @@
 ## Olá! Seja bem vindo!!
 
-![ImagemGit](https://wallpapers-clan.com/wp-content/uploads/2024/03/dragon-ball-goku-sparks-gif-preview-desktop-wallpaper.gif)
-
-## Sobre Mim
-
 Sou Gustavo Lopes, um desenvolvedor web com formação em Sistemas de Informação e Técnico em Informática. Atuo com desenvolvimento e suporte técnico, buscando sempre aprimorar meus conhecimentos em tecnologias e frameworks atuais. 
 
 Atualmente, tenho experiência com linguagens de programação como PHP, JavaScript e C#, além de conhecimentos sólidos em banco de dados MySQL e SQL Server. Estou empolgado em explorar novas oportunidades na área de desenvolvimento e contribuir com soluções inovadoras.
