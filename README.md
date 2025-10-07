@@ -46,8 +46,8 @@ Atualmente, tenho experiência com linguagens de programação como PHP, JavaScr
 
 #
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Kakabell&show_icons=true&theme=radical)
-<img alt="stats-github" src="https://github-readme-streak-stats.herokuapp.com/?user=Kakabell&theme=radical&hide_border=false" width="400px" />
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gusta-lopexx&show_icons=true&theme=radical)
+<img alt="stats-github" src="https://github-readme-streak-stats.herokuapp.com/?user=gusta-lopexx&theme=radical&hide_border=false" width="400px" />
 
 
 
