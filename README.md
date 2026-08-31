@@ -14,7 +14,7 @@ Atualmente busco novas oportunidades na área de **Desenvolvimento e Análise de
 
 ### 💻 Desenvolvimento
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -28,11 +28,23 @@ Atualmente busco novas oportunidades na área de **Desenvolvimento e Análise de
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Ferramentas
+### 🔗 APIs e Integrações
+
+- APIs REST
+- Integração entre sistemas
+- Consumo e comunicação entre serviços
+
+### 🛠️ Ferramentas e Ambiente de Desenvolvimento
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Herd](https://img.shields.io/badge/Laravel%20Herd-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+- **GLPI** — Gestão de chamados e suporte
+- **SyngooTalk** — Sistemas de comunicação e atendimento
+- **Confluence** — Documentação e gestão de conhecimento
 
 ---
 
